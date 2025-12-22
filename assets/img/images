@@ -1,0 +1,10 @@
+
+.hero {
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url('assets/img/hero-children-gardening.webp') center/cover no-repeat;
+}
+
+assets/img/ayca-fackler.webp
+assets/img/cardozo-gaibisso.webp
+assets/img/matthew.webp
+assets/img/david-kim.jpg
